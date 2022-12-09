@@ -1,4 +1,4 @@
-### Hola, I'm Akash Kochure! 👋
+### Hola,👋 I'm Akash Kochure! 
 
 - 🔭 I’m currently working on Basic Level AWS & DevOps Projects.
 - 🌱 I’m currently learning AWS Cloud with DevOps Skills. 
