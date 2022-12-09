@@ -8,4 +8,5 @@
 - 📫 How to reach me: http://www.linkedin.com/in/akash-kochure-429007218
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm 28yr's old but everybody thinks that I am just 24or25.😅
-https://github-readme-stats.vercel.app/api?username=akashbkochure&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
+
+<img src="https://github-readme-stats.vercel.app/api?username=akashbkochure&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
