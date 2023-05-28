@@ -5,15 +5,15 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=akashbkochure.akashbkochure)
 
 
-- 🔭 I’m currently working on Basic Level AWS & DevOps Projects.
+- 🔭 I’m currently working on Everything.
 - 
-- 🌱 I’m currently learning AWS Cloud with DevOps Skills.
+- 🌱 A DevOps engineer with a knack for Automation.
 - 
 - 👯 I’m looking to collaborate on YouTube.
 - 
-- 🤔 I’m looking help for Seeking Job opportunity as a Fresher AWS Engineer Role or DevOps Engineer Role.
+- 🤔 I’m looking help for Seeking Job Opportunity.
 - 
-- 💬 Ask me about Flutter or AWS & DevOps Projects related Stuff if you came across, Which I had Worked on.
+- 💬 Ask me about Flutter or AWS & DevOps Projects & Monitring related Stuff if you came across.
 - 
 - 📫 How to reach me: http://www.linkedin.com/in/akash-kochure-429007218
 - 
