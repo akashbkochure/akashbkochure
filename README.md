@@ -11,8 +11,6 @@
 - 
 - 👯 I’m looking to collaborate on YouTube.
 - 
-- 🤔 I’m looking help for Seeking Job Opportunity.
-- 
 - 💬 Ask me about Flutter or AWS & DevOps Projects & Monitring related Stuff if you came across.
 - 
 - 📫 How to reach me: http://www.linkedin.com/in/akash-kochure-429007218
