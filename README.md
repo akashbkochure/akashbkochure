@@ -16,8 +16,7 @@
 - 📫 How to reach me: http://www.linkedin.com/in/akash-kochure-429007218
 - 
 - 😄 Pronouns: He/His
-- 
-- ⚡ Fun fact: I'm 28yr's old but everybody thinks that I am just 24or25.😅
+
 <hr>
 
 <div align="center">
