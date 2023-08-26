@@ -5,17 +5,8 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=akashbkochure.akashbkochure)
 
 
-- 🔭 I’m currently working on Everything.
-- 
-- 🌱 A DevOps engineer with a knack for Automation.
-- 
-- 👯 I’m looking to collaborate on YouTube.
-- 
-- 💬 Ask me about Flutter or AWS & DevOps Projects & Monitring related Stuff if you came across.
-- 
-- 📫 How to reach me: http://www.linkedin.com/in/akash-kochure-429007218
-- 
-- 😄 Pronouns: He/His
+Results-driven DevOps Engineer with experience in implementing and managing DevOps practices to drive operational excellence. Proven expertise in deploying and maintaining scalable infrastructure, automating CI/CD pipelines,and optimizing cloud-based solutions. Skilled in utilizing a wide range of tools and technologies including Git, Jenkins, Docker, Kubernetes, AWS, and Terraform. Adept at providing comprehensive monitoring solutions for clients using Prometheus, Grafana, ELK Stack, Loki, Tempo, Splunk, Nagios, and APM monitoring solutions like New Relic, Datadog, Cilium, and Hubble UI. Strong problem-solving abilities, combined with excellent teamwork and communication skills, to deliver high-quality work and ensure seamless operations. Committed to continuous improvement and enhancing performance to drive business success. Ready to leverage my expertise to contribute to the success of an organization's DevOps initiatives.
+
 
 <hr>
 
