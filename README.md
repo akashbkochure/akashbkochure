@@ -5,6 +5,20 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=akashbkochure.akashbkochure)
 
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akashbkochure&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=da2828&height=3&section=header&%20render">
+  <a href="https://github.com/akashbkochure/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=akashbkochure&theme=dark&ring=e73737&currStreakNum=ffffff&fire=eaa532&currStreakLabel=eaa532&hide_border=true&background=0E1118" width="540" alt="akashbkochureStreak-stats"></a>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/akashbkochure/akashbkochure/main/HomePage.png" alt="HomePage">
+</div>
+
+
 - 🔭 I’m currently working on Everything.
 - 
 - 🌱 A DevOps engineer with a knack for Automation.
