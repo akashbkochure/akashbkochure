@@ -1,5 +1,3 @@
-### Hola,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Akash Kochure! 
-
 
 
 <div align="center">
@@ -16,6 +14,14 @@
 </div>
 
 
+
+
+
+
+
+
+
+### Hola,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Akash Kochure! 
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Akash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.https://www.linkedin.com/in/akash-kochure-429007218/)](https://www.https://www.linkedin.com/in/akash-kochure-429007218/)
