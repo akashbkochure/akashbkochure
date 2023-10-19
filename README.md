@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/akashbkochure/akashbkochure/main/Homepage.jpeg" alt="Homepage">
+  <img src="https://raw.githubusercontent.com/akashbkochure/akashbkochure/main/HomePage.jpeg" alt="HomePage">
 </div>
 
 
